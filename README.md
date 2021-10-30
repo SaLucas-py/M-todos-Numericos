@@ -7,7 +7,7 @@ Para que o programa possa ser executado precisamos instalar algumas bibliotecas
 pip install sympy </br>
 pip install numpy 
 
-#Exemplos de entrada:
+# Exemplos de entrada:
 
 Equação: x ** 2 - 6  * x + 15 </br>
 intervalo a: 0 </br>
